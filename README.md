@@ -3,7 +3,7 @@
 ##Overview
 This project simulates a sales environment for a fictional corporation, including products, orders, customers, stores, and the corporation itself. The code generates random sales data for multiple stores within the corporation and analyzes the sales to provide insights such as the most prevalent products, customer behavior, and large-basket purchases. The analysis includes both textual output and visualizations.
 
-##Features
+Features
 Sales Data Simulation:
 
 - The system generates random sales data, including products, orders, and customers.
